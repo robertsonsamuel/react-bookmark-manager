@@ -11,9 +11,6 @@ var bookmarks ={
 };
 
 
-
-
-
 class BookmarkList extends React.Component {
   constructor(props) {
     super(props);
